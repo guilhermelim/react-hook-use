@@ -1,5 +1,7 @@
 # React Hook use() with Error Boundary and Suspense
 
+![FROM THIS](https://github.com/user-attachments/assets/ed8f9816-c225-4cb8-b52a-91307f52a0c7)
+
 This project demonstrates the use of the new React `use()` hook in combination with `Error Boundary` and `Suspense`. It also includes a traditional approach using `useState`, `useEffect`, and `useCallback` for comparison.
 
 ## Features
@@ -54,6 +56,11 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+![image](https://github.com/user-attachments/assets/3244daf4-517d-4d26-9636-61b7df54a177)
+
+![image](https://github.com/user-attachments/assets/1ab8c38e-7850-404c-bfca-fa0d819aa569)
+
 
 ## Pages
 
